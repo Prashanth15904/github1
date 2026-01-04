@@ -1,1 +1,1 @@
-
+React (also known as React.js or ReactJS) is an open-source JavaScript library for building user interfaces (UIs), maintained by Meta and a large community of developers. It is widely used for developing single-page, mobile, and server-rendered applications, often in conjunction with frameworks like Next.js or React Native. 
