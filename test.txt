@@ -1,2 +1,5 @@
-created test.txt
+My name is Prashanth. I have completed my Bachelor’s degree in Electronics and Communication Engineering from Anna University, CEG Campus, Chennai.
 
+During my final year, I worked on two projects.
+The first one is Decorify – an E-Commerce Web Application, developed using .NET Core and Angular. In this project, I created REST APIs for adding, updating, and deleting products, and integrated these APIs with the UI. This project was built out of my personal interest, with guidance from a friend from the IT department.
+I have a strong interest in the software field, especially web development My hobbies are playing basketball and listening to music
